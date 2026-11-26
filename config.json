@@ -1,0 +1,36 @@
+{
+  "eventId": "my-event-2026",
+  "eventName": "The Christmas Wish Tree",
+  "greeting": "Every wish makes the tree shine brighter.",
+  "eyebrow": "Happy Holidays",
+
+  "hostLogo": null,
+
+  "gifts": [],
+
+  "theme": {
+    "preset": "classic",
+    "custom": { "accent": "#e2b866", "secondary": "#a8303a", "background": "#06140f", "text": "#fbf6ea" }
+  },
+
+  "form": {
+    "prompt": "What is your Christmas wish?",
+    "placeholder": "I wish for…",
+    "namePrompt": "Your name",
+    "buttonText": "Add My Wish",
+    "maxLength": 140
+  },
+
+  "moderation": {
+    "requireApproval": true,
+    "profanityFilter": true
+  },
+
+  "display": {
+    "showQr": true,
+    "qrLabel": ["Scan to add", "your Christmas wish"]
+  },
+
+  "guestUrl": "",
+  "showPoweredBy": false
+}
